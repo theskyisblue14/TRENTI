@@ -5,8 +5,8 @@ This repository contains the graphical user interface (GUI) for **TRENTI**, a si
 ## Features
 
 * **Live Dashboard** View execution throughput, crash statistics and side‑channel anomaly scores as they happen.
-* **Flexible Fuzzer Support** Compatible with AFL++, libFuzzer and FIRM‑AFL back‑ends.
-* **Device Management** Connect to multiple hardware targets, calibrate EM probes and manage sessions seamlessly.
+* **Flexible Fuzzer Support** Compatible with AFL++ and FIRM‑AFL back‑ends.
+* **Device Management** Connect to multiple hardware targets and manage sessions seamlessly.
 * **Side-Channel Integration** Real-time electromagnetic emission analysis with configurable oscilloscope parameters.
 * **Result Export** Save logs, crash dumps and coverage bitmaps for later analysis.
 
