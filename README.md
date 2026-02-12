@@ -143,9 +143,9 @@ If you use this GUI in your research, please cite:
 
 ```bibtex
 @inproceedings{trenti2026,
-  title={TRENTI: Black-Box Fuzzing of Embedded Software with Multimodal Side-Channel Feedback},
+  title={TRENTI: Embedded Fuzzing with Multimodal Side-Channel Feedback},
   author={A. Author and B. Author and C. Author},
-  booktitle={Proceedings of the 35th USENIX Security Symposium},
+  booktitle={Proceedings of the 11th IEEE European Symposium on Security and Privacy},
   year={2026},
   month={July}
 }
